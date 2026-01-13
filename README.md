@@ -1,6 +1,6 @@
 # Hi there 👋 I'm wahrani
 
-I'm a software developer interested in web Engineer, open source, and building useful tools.
+I'm a software Engineer interested in web Engineer, open source, and building useful tools.
 
 ## About Me
 - 🔭 I’m currently working on: my portfolio and some open-source projects
