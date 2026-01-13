@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi there 👋 I'm wahrani
 
-<!--
-**wahrani1/wahrani1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer interested in web Engineer, open source, and building useful tools.
 
-Here are some ideas to get you started:
+## About Me
+- 🔭 I’m currently working on: my portfolio and some open-source projects
+- 🌱 I’m learning: modern frontend frameworks and cloud deployment
+- 💬 Ask me about: JavaScript, Node.js, and React
+- 📫 How to reach me: [mahmoud.saber1@outlook.com](mailto:mahmoud.saber1@outlook.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Languages: PHP, JavaScript, TypeScript, Python
+- Web: Laravel, React, Next.js, Node.js, Express
+- Tools: Git, Docker, GitHub Actions
+
+
+## 📈 GitHub Stats
+![wahrani1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahrani1&show_icons=true&theme=radical)
+
+## Contact
+- Twitter: [@wahrany0](https://x.com/wahrany0)
+- LinkedIn: [Wahrani](https://www.linkedin.com/in/wahrani)
+
+Thanks for visiting! 🚀
