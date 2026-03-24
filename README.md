@@ -20,5 +20,5 @@ I'm a software Engineer interested in web Engineer, open source, and building us
 ## Contact
 - Twitter: [@wahrany0](https://x.com/wahrany0)
 - LinkedIn: [Wahrani](https://www.linkedin.com/in/wahrani)
--Resarchgate: https://www.researchgate.net/profile/Mahmoud-Wahrani?ev=hdr_xprf
+-Resarchgate: [wahrani](https://www.researchgate.net/profile/Mahmoud-Wahrani?ev=hdr_xprf)
 Thanks for visiting! 🚀
