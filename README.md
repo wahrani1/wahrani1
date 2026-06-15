@@ -13,10 +13,6 @@ I'm a software Engineer interested in web Engineer, open source, and building us
 - Web: Laravel, React, Next.js, Node.js, Express
 - Tools: Git, Docker, GitHub Actions
 
-
-## 📈 GitHub Stats
-![wahrani1's GitHub stats](https://github-readme-stats.vercel.app/api?username=wahrani1&show_icons=true&theme=radical)
-
 ## Contact
 - Twitter: [@wahrany0](https://x.com/wahrany0)
 - LinkedIn: [Wahrani](https://www.linkedin.com/in/wahrani)
